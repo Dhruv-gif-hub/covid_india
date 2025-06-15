@@ -172,7 +172,7 @@ FROM
 ## 📸 Screenshots
 
 ![Pic 1](https://github.com/Dhruv-gif-hub/covid_india/blob/main/Screenshots/pic1.png)
-[Pic 2]()
+![Pic 2](https://github.com/Dhruv-gif-hub/covid_india/blob/main/Screenshots/pic2.png)
 
 
 ## 🔗 Live Dashboard:
