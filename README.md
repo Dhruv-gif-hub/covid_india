@@ -5,15 +5,18 @@ Dataset sourced from Kaggle.
 
 ## 🛠 Tools Used
 
-- PostgreSQL – for data cleaning, transformation, and querying
-
-- Tableau – for interactive dashboards and visualizations
-
-- VS Code – for writing and managing SQL scripts
+- Kaggle Dataset – as the data source
 
 - Excel/CSV – for initial data formatting and inspection
 
-- Kaggle Dataset – as the data source
+- PostgreSQL – for data cleaning, transformation, and querying
+
+- VS Code – for writing and managing SQL scripts
+
+- Draw.io - for planning the dashboard.
+
+- Tableau – for interactive dashboards and visualizations
+
 
 ## 📊 Project Overview
 
@@ -26,7 +29,7 @@ This project aims to analyze and visualize the spread and impact of COVID-19 in 
 
 - Trends over time
 
-## 📁 Data Source
+## 📁 1. Data Source
 
 COVID-19 India [Dataset](https://www.kaggle.com/datasets/sudalairajkumar/covid19-in-india) from Kaggle
 
@@ -47,7 +50,7 @@ COVID-19 India [Dataset](https://www.kaggle.com/datasets/sudalairajkumar/covid19
 - Age Group Analysis of vaccinated individuals (18–44, 45–60, 60+)
 
 
-##  1. Excel
+##  2. Excel
 
 Before working in SQL or Tableau, the dataset was manually cleaned using Excel:
 
@@ -60,7 +63,7 @@ Before working in SQL or Tableau, the dataset was manually cleaned using Excel:
 Final CSV files were saved and imported into PostgreSQL.
 
 
-## 🐘 2. PostgreSQL — Data Transformation & Analysis
+## 🐘 3. PostgreSQL — Data Transformation & Analysis
 PostgreSQL was used for writing complex SQL queries to extract insights:
 
 ### 🔧 Key Transformations:
@@ -169,13 +172,18 @@ FROM
 ```
 
 
-## 📸 Screenshots
+## 4. Draw.io:
+An initial dashboard layout was sketched using Draw.io to outline the core structure and data flow. While the final design evolved during the development process, early planning helped establish a clear foundation and significantly reduced complexity during implementation.
+[Rough Layout](https://app.diagrams.net/#G1gdGFSqgYZUmLARA1kgWN6uRz3xMBr02G#%7B%22pageId%22%3A%22g7XfYoJWnmRFMn4iwCFl%22%7D)
+
+
+## 📸 5. Screenshots
 
 ![Pic 1](https://github.com/Dhruv-gif-hub/covid_india/blob/main/Screenshots/pic1.png)
 ![Pic 2](https://github.com/Dhruv-gif-hub/covid_india/blob/main/Screenshots/pic2.png)
 
 
-## 🔗 Live Dashboard:
+## 🔗 6. Live Dashboard:
 📍[View on Tableau Public](https://public.tableau.com/app/profile/dhruv.bhatt1880/viz/Covid_19_India_17499761388210/CovidTrendsoverview)
 
 
