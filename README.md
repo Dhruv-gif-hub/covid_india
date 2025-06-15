@@ -171,7 +171,7 @@ FROM
 
 ## 📸 Screenshots
 
-[Pic 1]()
+![Pic 1](https://github.com/Dhruv-gif-hub/covid_india/blob/main/Screenshots/pic1.png)
 [Pic 2]()
 
 
